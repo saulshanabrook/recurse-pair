@@ -1,0 +1,8 @@
+name: recurse-pair
+channels:
+  - conda-forge
+dependencies:
+  - mypy
+  - python
+  - black
+  - flake8
