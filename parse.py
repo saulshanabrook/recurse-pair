@@ -4,7 +4,6 @@ Parse a string of Lisp code into an AST.
 Supports these types of tokens:
 * Integers/floats
 * Strings
-* Booleans
 * Strings
 * Symbols
 """
