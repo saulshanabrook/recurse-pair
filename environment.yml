@@ -6,3 +6,4 @@ dependencies:
   - python
   - black
   - flake8
+  - pytest
